@@ -5,7 +5,8 @@ The goal of this project is to distinguish between customers who accepted a driv
 The data comes is sourced from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, passenger, etc., and then asks people whether they will accept the coupon if they are the driver.
 
 **The programming language used is Python, and the libraries used were: Pandas, Seaborn, Matplotlib, and numpy**
-[Link to notebook used]([/p/notebook](https://github.com/tildahh/Will_the_customer_accept_the_coupon/prompt.ipynb))
+
+[Link to notebook used](https://github.com/tildahh/Will_the_customer_accept_the_coupon/prompt.ipynb)
 
 ## Data Summary
 
@@ -30,7 +31,7 @@ Using Python for data plotting and statistical analysis, we:
 ![Number of Coupons Accepted per Category](https://github.com/tildahh/Will_the_customer_accept_the_coupon/images/all_coupons_acceptance_ratio.png)
 ![Proportion of Bar Coupon Acceptance](https://github.com/tildahh/Will_the_customer_accept_the_coupon/images/bar_coupon_acceptance.png)
 ![Bar Correlation Heatmap](https://github.com/tildahh/Will_the_customer_accept_the_coupon/images/bar_correlation_heatmap.png)
-![Acceptance Rate Based on Number of Bar Visits per Month](https://github.com/tildahh/Will_the_customer_accept_the_coupon/images/bar_acceptance_rate_frequency_category.png)
+![Acceptance Rate Based on Number of Bar Visits per Month (https://github.com/tildahh/Will_the_customer_accept_the_coupon/images/bar_acceptance_rate_frequency_category.png)
 ![Proportion of Accepted Coffee Coupons](https://github.com/tildahh/Will_the_customer_accept_the_coupon/images/coffee_coupon_acceptance.png)
 ![Acceptance Rate for Coffee House Visits](https://github.com/tildahh/Will_the_customer_accept_the_coupon/images/coffee_acceptance_rate_frequency_detailed.png)
 ![Rejection Rate for Coffee House Visits](https://github.com/tildahh/Will_the_customer_accept_the_coupon/images/to/coffee_rejection_rate.png)
