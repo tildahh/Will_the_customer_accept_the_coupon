@@ -27,17 +27,6 @@ Using Python for data plotting and statistical analysis, we:
 - Coupon acceptance correlated with longer expiration times, higher visit frequencies to coffee houses, and the presence of friends or partners.
 - Younger customers (below age 30) were more inclined to accept coupons, especially when visiting coffee houses more than once a month.
 
-
-![Proportion of Coupon Acceptance](/https://github.com/tildahh/Will_the_customer_accept_the_coupon/tree/main/images/all_coupon_acceptance.png)
-![Number of Coupons Accepted per Category](/https://github.com/tildahh/Will_the_customer_accept_the_coupon/tree/main/images/all_coupons_acceptance_ratio.png)
-![Proportion of Bar Coupon Acceptance](/https://github.com/tildahh/Will_the_customer_accept_the_coupon/tree/main/images/bar_coupon_acceptance.png)
-![Bar Correlation Heatmap](/https://github.com/tildahh/Will_the_customer_accept_the_coupon/tree/main/images/bar_correlation_heatmap.png)
-![Acceptance Rate Based on Number of Bar Visits per Month](/https://github.com/tildahh/Will_the_customer_accept_the_coupon/tree/main/images/bar_acceptance_rate_frequency_category.png)
-![Proportion of Accepted Coffee Coupons](/https://github.com/tildahh/Will_the_customer_accept_the_coupon/tree/main/images/coffee_coupon_acceptance.png)
-![Acceptance Rate for Coffee House Visits](/https://github.com/tildahh/Will_the_customer_accept_the_coupon/tree/main/images/coffee_acceptance_rate_frequency_detailed.png)
-![Rejection Rate for Coffee House Visits](/https://github.com/tildahh/Will_the_customer_accept_the_coupon/tree/main/images/to/coffee_rejection_rate.png)
-![Coffee Coupon Acceptance by Time of Day](/https://github.com/tildahh/Will_the_customer_accept_the_coupon/tree/main/images/to/coffee_acceptance_by_time.png)
-
 ## Hypothesis
 
 We hypothesize that customers who are young, frequently visit coffee houses, and are accompanied by peers are more likely to accept driving coupons. This demographic represents a key target for marketing strategies aimed at increasing coupon acceptance rates.
