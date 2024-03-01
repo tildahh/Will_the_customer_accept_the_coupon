@@ -2,7 +2,7 @@
 
 The goal of this project is to distinguish between customers who accepted a driving coupon versus those that did not, using visualizations and statistical summaries to reveal underlying patterns.
 
-The data comes is sourced from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, passenger, etc., and then asks people whether they will accept the coupon if they are the driver.
+The data is sourced from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, passenger, etc., and then asks people whether they will accept the coupon if they are the driver.
 
 **The programming language used is Python, and the libraries used were: Pandas, Seaborn, Matplotlib, and numpy**
 
